@@ -1,0 +1,159 @@
+Country,Indicator,Time,Value
+Australia,Gender wage gap at 1st decile (bottom),2000,9.8
+Australia,Gender wage gap at 9th decile (top),2000,26.3
+Belgium,Gender wage gap at 1st decile (bottom),2000,16.7
+Belgium,Gender wage gap at 9th decile (top),2000,20.4
+Canada,Gender wage gap at 1st decile (bottom),2000,21.1
+Canada,Gender wage gap at 9th decile (top),2000,21.1
+Finland,Gender wage gap at 1st decile (bottom),2000,11.3
+Finland,Gender wage gap at 9th decile (top),2000,29.6
+Germany,Gender wage gap at 1st decile (bottom),2000,24.2
+Germany,Gender wage gap at 9th decile (top),2000,28.6
+Hungary,Gender wage gap at 1st decile (bottom),2000,1.2
+Hungary,Gender wage gap at 9th decile (top),2000,25.4
+Italy,Gender wage gap at 1st decile (bottom),2000,11.1
+Italy,Gender wage gap at 9th decile (top),2000,22.2
+Japan,Gender wage gap at 1st decile (bottom),2000,26.8
+Japan,Gender wage gap at 9th decile (top),2000,38.9
+Korea,Gender wage gap at 1st decile (bottom),2000,26.9
+Korea,Gender wage gap at 9th decile (top),2000,39.5
+New Zealand,Gender wage gap at 1st decile (bottom),2000,6.7
+New Zealand,Gender wage gap at 9th decile (top),2000,16.7
+Norway,Gender wage gap at 1st decile (bottom),2000,7.5
+Norway,Gender wage gap at 9th decile (top),2000,23.4
+Sweden,Gender wage gap at 1st decile (bottom),2000,8.0
+Sweden,Gender wage gap at 9th decile (top),2000,27.4
+Switzerland,Gender wage gap at 1st decile (bottom),2000,23.2
+Switzerland,Gender wage gap at 9th decile (top),2000,28.5
+United Kingdom,Gender wage gap at 1st decile (bottom),2000,20.0
+United Kingdom,Gender wage gap at 9th decile (top),2000,27.9
+United States,Gender wage gap at 1st decile (bottom),2000,13.7
+United States,Gender wage gap at 9th decile (top),2000,29.0
+Chile,Gender wage gap at 1st decile (bottom),2000,12.9
+Chile,Gender wage gap at 9th decile (top),2000,9.8
+OECD - Average,Gender wage gap at 1st decile (bottom),2000,14.0
+OECD - Average,Gender wage gap at 9th decile (top),2000,23.8
+Australia,Gender wage gap at median,2000,17.2
+Austria,Gender wage gap at median,2000,23.1
+Belgium,Gender wage gap at median,2000,13.6
+Canada,Gender wage gap at median,2000,23.9
+Finland,Gender wage gap at median,2000,20.4
+Germany,Gender wage gap at median,2000,19.5
+Hungary,Gender wage gap at median,2000,14.1
+Italy,Gender wage gap at median,2000,8.5
+Japan,Gender wage gap at median,2000,33.9
+Korea,Gender wage gap at median,2000,41.7
+New Zealand,Gender wage gap at median,2000,7.2
+Norway,Gender wage gap at median,2000,9.2
+Sweden,Gender wage gap at median,2000,12.4
+Switzerland,Gender wage gap at median,2000,23.8
+United Kingdom,Gender wage gap at median,2000,26.3
+United States,Gender wage gap at median,2000,23.1
+Chile,Gender wage gap at median,2000,6.1
+OECD - Average,Gender wage gap at median,2000,18.1
+Australia,Gender wage gap at 1st decile (bottom),2020,6.3
+Australia,Gender wage gap at 9th decile (top),2020,18.3
+Australia,Gender wage gap at median,2020,10.5
+Canada,Gender wage gap at 1st decile (bottom),2020,10.0
+Canada,Gender wage gap at 9th decile (top),2020,16.1
+Canada,Gender wage gap at median,2020,17.6
+Czechia,Gender wage gap at 1st decile (bottom),2020,4.3
+Czechia,Gender wage gap at 9th decile (top),2020,19.5
+Czechia,Gender wage gap at median,2020,12.4
+Japan,Gender wage gap at 1st decile (bottom),2020,15.8
+Japan,Gender wage gap at 9th decile (top),2020,32.0
+Japan,Gender wage gap at median,2020,22.5
+Korea,Gender wage gap at 1st decile (bottom),2020,7.2
+Korea,Gender wage gap at 9th decile (top),2020,34.6
+Korea,Gender wage gap at median,2020,31.5
+Mexico,Gender wage gap at 1st decile (bottom),2020,11.1
+Mexico,Gender wage gap at 9th decile (top),2020,7.0
+Mexico,Gender wage gap at median,2020,9.6
+New Zealand,Gender wage gap at 1st decile (bottom),2020,3.5
+New Zealand,Gender wage gap at 9th decile (top),2020,14.0
+New Zealand,Gender wage gap at median,2020,4.6
+Norway,Gender wage gap at 1st decile (bottom),2020,3.8
+Norway,Gender wage gap at 9th decile (top),2020,18.1
+Norway,Gender wage gap at median,2020,4.8
+Slovak Republic,Gender wage gap at 1st decile (bottom),2020,2.9
+Slovak Republic,Gender wage gap at 9th decile (top),2020,20.3
+Slovak Republic,Gender wage gap at median,2020,11.0
+Sweden,Gender wage gap at 1st decile (bottom),2020,4.5
+Sweden,Gender wage gap at 9th decile (top),2020,14.0
+Sweden,Gender wage gap at median,2020,7.4
+United Kingdom,Gender wage gap at 1st decile (bottom),2020,7.9
+United Kingdom,Gender wage gap at 9th decile (top),2020,20.0
+United Kingdom,Gender wage gap at median,2020,12.0
+United States,Gender wage gap at 1st decile (bottom),2020,11.0
+United States,Gender wage gap at 9th decile (top),2020,22.8
+United States,Gender wage gap at median,2020,17.7
+Chile,Gender wage gap at 1st decile (bottom),2020,20.0
+Chile,Gender wage gap at 9th decile (top),2020,13.3
+Chile,Gender wage gap at median,2020,8.6
+Colombia,Gender wage gap at 1st decile (bottom),2020,22.9
+Colombia,Gender wage gap at median,2020,3.0
+Costa Rica,Gender wage gap at 1st decile (bottom),2020,23.2
+Costa Rica,Gender wage gap at median,2020,3.0
+Austria,Gender wage gap at 1st decile (bottom),2020,17.5
+Austria,Gender wage gap at 9th decile (top),2020,18.1
+Austria,Gender wage gap at median,2020,12.4
+Greece,Gender wage gap at 9th decile (top),2020,26.0
+Greece,Gender wage gap at median,2020,8.0
+Hungary,Gender wage gap at 1st decile (bottom),2020,9.3
+Hungary,Gender wage gap at 9th decile (top),2020,21.8
+Hungary,Gender wage gap at median,2020,12.4
+Poland,Gender wage gap at 9th decile (top),2020,18.3
+Poland,Gender wage gap at median,2020,8.7
+Portugal,Gender wage gap at 1st decile (bottom),2020,2.0
+Portugal,Gender wage gap at 9th decile (top),2020,15.3
+Portugal,Gender wage gap at median,2020,6.7
+Switzerland,Gender wage gap at 1st decile (bottom),2020,13.6
+Switzerland,Gender wage gap at 9th decile (top),2020,18.6
+Switzerland,Gender wage gap at median,2020,13.8
+OECD - Average,Gender wage gap at 1st decile (bottom),2020,10.4
+OECD - Average,Gender wage gap at 9th decile (top),2020,18.2
+OECD - Average,Gender wage gap at median,2020,11.1
+Denmark,Gender wage gap at 1st decile (bottom),2020,8.0
+Denmark,Gender wage gap at 9th decile (top),2020,11.4
+Denmark,Gender wage gap at median,2020,5.0
+Finland,Gender wage gap at 1st decile (bottom),2020,8.9
+Finland,Gender wage gap at 9th decile (top),2020,21.5
+Finland,Gender wage gap at median,2020,16.0
+Germany,Gender wage gap at 1st decile (bottom),2020,15.2
+Germany,Gender wage gap at 9th decile (top),2020,19.9
+Germany,Gender wage gap at median,2020,12.1
+Netherlands,Gender wage gap at 1st decile (bottom),2020,6.5
+Netherlands,Gender wage gap at 9th decile (top),2020,10.6
+Netherlands,Gender wage gap at median,2020,13.3
+Spain,Gender wage gap at 1st decile (bottom),2020,21.1
+Spain,Gender wage gap at 9th decile (top),2020,11.2
+Spain,Gender wage gap at median,2020,8.1
+Estonia,Gender wage gap at 1st decile (bottom),2020,13.6
+Estonia,Gender wage gap at 9th decile (top),2020,28.3
+Estonia,Gender wage gap at median,2020,19.6
+Lithuania,Gender wage gap at 1st decile (bottom),2020,5.5
+Lithuania,Gender wage gap at 9th decile (top),2020,22.1
+Lithuania,Gender wage gap at median,2020,9.3
+Belgium,Gender wage gap at 1st decile (bottom),2020,5.7
+Belgium,Gender wage gap at 9th decile (top),2020,6.1
+Belgium,Gender wage gap at median,2020,1.2
+France,Gender wage gap at 1st decile (bottom),2020,12.2
+France,Gender wage gap at 9th decile (top),2020,20.8
+France,Gender wage gap at median,2020,11.8
+Italy,Gender wage gap at 1st decile (bottom),2020,2.8
+Italy,Gender wage gap at 9th decile (top),2020,20.0
+Italy,Gender wage gap at median,2020,4.8
+Latvia,Gender wage gap at 1st decile (bottom),2020,17.1
+Latvia,Gender wage gap at 9th decile (top),2020,25.1
+Latvia,Gender wage gap at median,2020,22.7
+Iceland,Gender wage gap at median,2020,11.4
+Ireland,Gender wage gap at median,2020,7.3
+Israel,Gender wage gap at 1st decile (bottom),2020,13.3
+Israel,Gender wage gap at 9th decile (top),2020,29.0
+Israel,Gender wage gap at median,2020,21.6
+Poland,Gender wage gap at 1st decile (bottom),2020,-2.6
+Ireland,Gender wage gap at 9th decile (top),2020,21.1
+Luxembourg,Gender wage gap at median,2020,0.4
+Slovenia,Gender wage gap at 1st decile (bottom),2020,11.8
+Slovenia,Gender wage gap at 9th decile (top),2020,16.0
+Slovenia,Gender wage gap at median,2020,8.4
