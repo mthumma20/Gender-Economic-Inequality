@@ -25,12 +25,11 @@ This data was accessed from the Organisation for Economic Co-operation and Devel
 
 ## **Data Visualizations**
 
+--- 
 This visualization of the gender wage gap data of 2000 and 2020 around the world was created R Studio.
----
 ![data-viz](visualizations/data-visualization-bar-graph.png)
 
 This visualization of the gender wage gap data focuses on the geographic aspect of the data through the use of a choropleth map. This visualization was created using [DataWrapper] {https://www.datawrapper.de/}.
----
 ![data-viz](visualizations/data-visualization-map.png)
 
 
