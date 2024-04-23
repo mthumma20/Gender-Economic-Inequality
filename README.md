@@ -22,6 +22,6 @@ This data was accessed from the Organisation for Economic Co-operation and Devel
 - This data could be used to bring greater public awareness to diversity, equity, and inclusion in the workplace and the disparities in gender-based pay.
 
 **Data Visualizations**
-![data-viz](/visualizations/data visualization - bar graph)
+![data-viz](/visualizations/data visualization - bar graph.png)
 
 
