@@ -4,6 +4,7 @@ Gender Wage Gap Around the World over the Past Two Decades
 **This repository was created as a part of Steven Gotzler's English 105 class during the Spring 2024 semester at the University of North Carolina at Chapel Hill.**
 
 
+
 **Within this repository you will find...**
 - A data folder containing the raw Gender Wage Gap dataset and the subset of data created by merging a subset of 2000 data and a subset of 2020 data, utilizing Python3.
 - A code folder containing the Python notebook (genderwagegap.ipynb) documenting the process of creating the new subset of data from the raw dataset.
@@ -21,5 +22,6 @@ This data was accessed from the Organisation for Economic Co-operation and Devel
 - This data could be used to bring greater public awareness to diversity, equity, and inclusion in the workplace and the disparities in gender-based pay.
 
 **Data Visualizations**
+![data-viz](data visualization)
 
 
