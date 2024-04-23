@@ -26,7 +26,7 @@ This data was accessed from the Organisation for Economic Co-operation and Devel
 ## **Data Visualizations**
 
 --- 
-This visualization of the gender wage gap data of 2000 and 2020 around the world was created R Studio.  
+This visualization of the gender wage gap data of 2000 and 2020 around the world was created R Studio. This graph focuses on the countries with the highest and lowest gender wage gaps, to make this data easier to interpret.
 
 ![data-viz](visualizations/data-visualization-bar-graph.png)  
 
@@ -35,6 +35,8 @@ This visualization of the gender wage gap data focuses on the geographic aspect 
 
 ![data-viz](visualizations/data-visualization-map.png)
 
+---
+# Getting Started
 
-
+Now that you've finished reading the readme file, you can first navigate to the code folder, where the process documentation is located. You can follow along with the step by step directions provided to reproduce the datasets using the raw data, which can be located in the data folder. 
 
