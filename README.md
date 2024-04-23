@@ -27,7 +27,7 @@ This visualization of the gender wage gap data of 2000 and 2020 around the world
 ![data-viz](visualizations/data-visualization-bar-graph.png)
 
 This visualization of the gender wage gap data focuses on the geographic aspect of the data through the use of a choropleth map. 
-![data-viz](visualizations/data-visualization-bar-graph.png)
+![data-viz](visualizations/data-visualization-map.png)
 
 
 
