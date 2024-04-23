@@ -1,7 +1,9 @@
 # Gender Economic Inequality
-Gender Wage Gap Around the World over the Past Two Decades
+**Gender Wage Gap Around the World over the Past Two Decades**
 
 **This repository was created as a part of Steven Gotzler's English 105 class during the Spring 2024 semester at the University of North Carolina at Chapel Hill.**
+
+---
 
 
 
