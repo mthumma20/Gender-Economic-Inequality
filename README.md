@@ -24,9 +24,10 @@ This data was accessed from the Organisation for Economic Co-operation and Devel
 - Policymakers could take this data into account when implementing plans to combat gender inequalities, specifically in the workplace.
 - This data could be used to bring greater public awareness to diversity, equity, and inclusion in the workplace and the disparities in gender-based pay.
 
+--- 
+
 ## **Data Visualizations**
 
---- 
 This visualization of the gender wage gap data of 2000 and 2020 around the world was created R Studio. This graph focuses on the countries with the highest and lowest gender wage gaps, to make this data easier to interpret.
 
 ![data-viz](visualizations/data-visualization-bar-graph.png)  
