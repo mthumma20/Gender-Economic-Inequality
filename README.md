@@ -15,6 +15,14 @@
 - This repository was created to provide an accessible and reproducible dataset, highlighting the changes in the gender wage gap over the last 20 years around the world. In doing so, awareness is brought to these values, and the countries with the highest and lowest values can be easily found.
 - This data can be used by those interested in advocating for lower gender wage gaps and those studying gender economic inequalities, as well as by anyone interested in learning more about the gender wage gaps around the world, in general.
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 ## **Where is this data from?**
 This data was accessed from the Organisation for Economic Co-operation and Development (OECD), which brings member countries and partners together to collaborate on global issues at national, regional, and local levels. The original data can be found at [OCED.stat] {https://stats.oecd.org/index.aspx?queryid=54751} 
 
