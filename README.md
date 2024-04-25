@@ -1,5 +1,4 @@
-# Gender Economic Inequality
-**Gender Wage Gap Around the World over the Past Two Decades**
+# Gender Economic Inequality - Gender Wage Gap Around the World
 
 ## About
 **This repository contains publicly available economic data from the Organisation for Economic Co-operation and Development, concerning gender wage gaps around the world.**
