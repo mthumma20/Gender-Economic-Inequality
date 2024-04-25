@@ -17,7 +17,7 @@
 
 
 ## **Where is this data from?**
-This data was accessed from the Organisation for Economic Co-operation and Development (OECD), which brings member countries and partners together to collaborate on global issues at national, regional, and local levels. The original data can be found at [OCED.stat](https://stats.oecd.org/index.aspx?queryid=54751)
+This data was accessed from the Organisation for Economic Co-operation and Development (OECD), which brings member countries and partners together to collaborate on global issues at national, regional, and local levels. The original dataset can be found at [OCED.stat](https://stats.oecd.org/index.aspx?queryid=54751)
 
 ## **What could this data be used for?**
 - This dataset could be used by economic analysts studying and predicting trends, including changes in gender wage gaps.
